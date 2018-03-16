@@ -1,0 +1,68 @@
+:root {
+  --whitishBg: #eee;
+  --primary: #2f3536;
+  --secondary: #ffcc54;
+  --primaryLight: #585f60;
+  --primaryDark: #060f10;
+  --secondaryLight: #ffff85;
+  --secondaryDark: #c89b20;
+  --primaryText: #ffffff;
+  --secondaryText: #000000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--primary);
+  color: var(--primaryText);  
+}
+
+h2 {
+  text-align: center;
+  padding: 10px;
+  font-size: 1.4em;
+  font-weight: 300;
+}
+
+.keys {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  align-content: center;
+  justify-content: center;
+  grid-gap: 20px;
+  height: calc(100vh - 150px);
+  width: calc(100% - 20px);
+  text-align: center;
+  padding: 20px;
+}
+
+.key {
+  border: 1px solid transparent;
+  background: var(--primaryLight);
+  border-radius: 2px;
+  padding: 20px;
+  transition: all 0.7s;
+}
+
+.playing {
+  border: 1px solid var(--secondary);
+  transform: scale(1.1);
+  box-shadow: 0px 3px 24px 1px rgba(6,15,16,0.69);
+}
+
+.sound-desc {
+  font-size: 0.8em;
+  color: var(--secondaryText);
+  text-transform: uppercase;
+  text-decoration: underline;
+  opacity: 0.6;
+  margin-top: 5px;
+}
+
+@media only screen and (max-width: 750px) {
+  .keys {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
