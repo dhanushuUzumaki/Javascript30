@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="index.css">
+  <title>CSS variables in JS</title>
+</head>
+<body>
+  <h2>CSS variables in <span class="highlight">JS</span></h2>
+  <div class="controls">
+    <div class="control">
+      <label for="spacing" class="label">Spacing</label>
+      <input type="range" min="10" max="100" data-size="px" name="spacing" value="20"/>
+    </div>
+    <div class="control">
+      <label for="blur" class="label">Blur</label>
+      <input type="range" min="0" max="20" data-size="px" name="blur" value="5"/>
+    </div>
+    <div class="control">
+      <label for="baseColor" class="label">Background Color</label>
+      <input type="color" value="#ffcc54" name="baseColor"/>
+    </div>
+  </div>
+
+  <div class="image"><img src="https://picsum.photos/300" alt="radom image"></div>
+  
+  <script src="index.js"></script>
+</body>
+</html>
