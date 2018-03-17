@@ -50,3 +50,7 @@ img {
   padding: 10px;
   grid-gap: 10px;
 }
+
+.highlight {
+  color: var(--baseColor);
+}
