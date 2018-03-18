@@ -1,0 +1,53 @@
+:root {
+  --whitishBg: #eee;
+  --primary: #2f3536;
+  --secondary: #ffcc54;
+  --primaryLight: #585f60;
+  --primaryDark: #060f10;
+  --secondaryLight: #ffff85;
+  --secondaryDark: #c89b20;
+  --primaryText: #ffffff;
+  --secondaryText: #000000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--primary);
+}
+
+h2 {
+  text-align: center;
+  padding: 10px;
+  font-size: 1.4em;
+  font-weight: 300;
+  color: var(--whitishBg);
+}
+
+.clock {
+  height: 80vh;
+  display: grid;
+  align-items: center;
+}
+
+.clock-face {
+  border: 10px solid var(--secondary);
+  justify-self: center;
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+  position: relative;
+}
+
+.hand {
+  position: absolute;
+  right: 50%;
+  width: 45%;
+  top: 50%;
+  height: 2px;
+  background: var(--whitishBg);
+  transform-origin: 100%;
+  transform: rotate(90deg);  
+}
