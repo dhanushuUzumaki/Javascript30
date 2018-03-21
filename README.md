@@ -6,3 +6,4 @@
 3. [Day 3 - JS CSS Clock](https://dhanushuuzumaki.github.io/Javascript30/d3-js-css-clock/)
 4. Day 4 - Array Cardio - 1
 5. [Day 5 - Flex panel image gallery](https://dhanushuuzumaki.github.io/Javascript30/d5-flex-panels-image-gallery)
+6. [Day 6 - AJAX type ahead](https://dhanushuuzumaki.github.io/Javascript30/d6-ajax-type-ahead)
