@@ -7,3 +7,4 @@
 4. Day 4 - Array Cardio - 1
 5. [Day 5 - Flex panel image gallery](https://dhanushuuzumaki.github.io/Javascript30/d5-flex-panels-image-gallery)
 6. [Day 6 - AJAX type ahead](https://dhanushuuzumaki.github.io/Javascript30/d6-ajax-type-ahead)
+7. Day 7 - Array Cardio - 2
