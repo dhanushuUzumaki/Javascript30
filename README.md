@@ -9,3 +9,4 @@
 6. [Day 6 - AJAX type ahead](https://dhanushuuzumaki.github.io/Javascript30/d6-ajax-type-ahead/)
 7. Day 7 - Array Cardio - 2
 8. [Day 8 - Fun With Canvas](https://dhanushuuzumaki.github.io/Javascript30/d8-fun-with-canvas/)
+9. Day 9 - Dev Tool Domination
