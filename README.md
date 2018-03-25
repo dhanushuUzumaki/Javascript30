@@ -10,3 +10,4 @@
 7. Day 7 - Array Cardio - 2
 8. [Day 8 - Fun With Canvas](https://dhanushuuzumaki.github.io/Javascript30/d8-fun-with-canvas/)
 9. Day 9 - Dev Tool Domination
+10. [Day 10 - Shift + Checkbox](https://dhanushuuzumaki.github.io/Javascript30/d10-shift-checkbox/)
