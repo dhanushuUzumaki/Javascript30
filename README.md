@@ -11,4 +11,5 @@
 8. [Day 8 - Fun With Canvas](https://dhanushuuzumaki.github.io/Javascript30/d8-fun-with-canvas/)
 9. Day 9 - Dev Tool Domination
 10. [Day 10 - Shift + Checkbox](https://dhanushuuzumaki.github.io/Javascript30/d10-shift-checkbox/)
-10. [Day 11 - Custom Video Player](https://dhanushuuzumaki.github.io/Javascript30/d11-custom-video-player/)
+11. [Day 11 - Custom Video Player](https://dhanushuuzumaki.github.io/Javascript30/d11-custom-video-player/)
+12. [Day 12 - Key Sequence Detection](https://dhanushuuzumaki.github.io/Javascript30/d12-key-sequence-detection/)
