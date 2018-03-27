@@ -27,6 +27,10 @@ body {
   overflow: hidden;
 }
 
+video::-webkit-media-controls-enclosure {
+  display:none !important;
+}
+
 /* This css is only applied when fullscreen is active. */
 .player:fullscreen {
   max-width: none;
@@ -153,4 +157,13 @@ input[type=range]::-moz-range-thumb {
   border-radius: 50px;
   background: #ffc600;
   cursor: pointer;
+}
+
+.fullscreen__button {
+  background: transparent;
+  border: 0;
+  max-width: 30px;
+  color: white;
+  cursor: pointer;
+  outline: none;
 }
