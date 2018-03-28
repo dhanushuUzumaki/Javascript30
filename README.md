@@ -13,3 +13,4 @@
 10. [Day 10 - Shift + Checkbox](https://dhanushuuzumaki.github.io/Javascript30/d10-shift-checkbox/)
 11. [Day 11 - Custom Video Player](https://dhanushuuzumaki.github.io/Javascript30/d11-custom-video-player/)
 12. [Day 12 - Key Sequence Detection](https://dhanushuuzumaki.github.io/Javascript30/d12-key-sequence-detection/)
+13. [Day 13 - Slide In On Scroll](https://dhanushuuzumaki.github.io/Javascript30/d13-slide-in-on-scroll/)
