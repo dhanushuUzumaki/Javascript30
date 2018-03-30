@@ -15,3 +15,4 @@
 12. [Day 12 - Key Sequence Detection](https://dhanushuuzumaki.github.io/Javascript30/d12-key-sequence-detection/)
 13. [Day 13 - Slide In On Scroll](https://dhanushuuzumaki.github.io/Javascript30/d13-slide-in-on-scroll/)
 14. [Day 14 - JS Reference VS Copy](https://dhanushuuzumaki.github.io/Javascript30/d14-js-reference-vs-copy/)
+15. [Day 15 - LocalStorage and Event Delegation](https://dhanushuuzumaki.github.io/Javascript30/d15-localstorage-and-event-delegation/)
