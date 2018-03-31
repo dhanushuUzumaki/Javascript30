@@ -16,3 +16,4 @@
 13. [Day 13 - Slide In On Scroll](https://dhanushuuzumaki.github.io/Javascript30/d13-slide-in-on-scroll/)
 14. [Day 14 - JS Reference VS Copy](https://dhanushuuzumaki.github.io/Javascript30/d14-js-reference-vs-copy/)
 15. [Day 15 - LocalStorage and Event Delegation](https://dhanushuuzumaki.github.io/Javascript30/d15-localstorage-and-event-delegation/)
+16. [Day 16 - Mouse Move Shadow](https://dhanushuuzumaki.github.io/Javascript30/d16-mouse-move-shadow/)
