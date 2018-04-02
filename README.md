@@ -18,3 +18,4 @@
 15. [Day 15 - LocalStorage and Event Delegation](https://dhanushuuzumaki.github.io/Javascript30/d15-localstorage-and-event-delegation/)
 16. [Day 16 - Mouse Move Shadow](https://dhanushuuzumaki.github.io/Javascript30/d16-mouse-move-shadow/)
 17. [Day 17 - Sort Without Articles](https://dhanushuuzumaki.github.io/Javascript30/d17-sort-without-articles/)
+18. [Day 18 - Adding up times with reduce](https://dhanushuuzumaki.github.io/Javascript30/d18-adding-up-times-with-reduce/)
