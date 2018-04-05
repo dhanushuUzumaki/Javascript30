@@ -21,3 +21,4 @@
 18. [Day 18 - Adding up times with reduce](https://dhanushuuzumaki.github.io/Javascript30/d18-adding-up-times-with-reduce/)
 19. [Day 19 - Webcam Fun](https://dhanushuuzumaki.github.io/Javascript30/d19-webcam-fun/)
 20. [Day 20 - Speech Detection](https://dhanushuuzumaki.github.io/Javascript30/d20-speech-detection/)
+21. [Day 21 - Geo Location](https://dhanushuuzumaki.github.io/Javascript30/d21-geolocation/)
