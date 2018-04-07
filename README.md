@@ -23,3 +23,4 @@
 20. [Day 20 - Speech Detection](https://dhanushuuzumaki.github.io/Javascript30/d20-speech-detection/)
 21. [Day 21 - Geo Location](https://dhanushuuzumaki.github.io/Javascript30/d21-geolocation/)
 22. [Day 22 - Follow Along Link Highlight](https://dhanushuuzumaki.github.io/Javascript30/d22-follow-along-link-highlighter/)
+23. [Day 23 - Speech Synthesis](https://dhanushuuzumaki.github.io/Javascript30/d23-speech-synthesis/)
