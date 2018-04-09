@@ -25,3 +25,4 @@
 22. [Day 22 - Follow Along Link Highlight](https://dhanushuuzumaki.github.io/Javascript30/d22-follow-along-link-highlighter/)
 23. [Day 23 - Speech Synthesis](https://dhanushuuzumaki.github.io/Javascript30/d23-speech-synthesis/)
 24. [Day 24 - Sticky Nav](https://dhanushuuzumaki.github.io/Javascript30/d24-sticky-nav/)
+25. [Day 25 - Undestanding JS's capture](https://dhanushuuzumaki.github.io/Javascript30/d25-understanding-js-capture/)
