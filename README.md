@@ -26,3 +26,4 @@
 23. [Day 23 - Speech Synthesis](https://dhanushuuzumaki.github.io/Javascript30/d23-speech-synthesis/)
 24. [Day 24 - Sticky Nav](https://dhanushuuzumaki.github.io/Javascript30/d24-sticky-nav/)
 25. [Day 25 - Undestanding JS's capture](https://dhanushuuzumaki.github.io/Javascript30/d25-understanding-js-capture/)
+26. [Day 26 - Stripe Follow Along Nav](https://dhanushuuzumaki.github.io/Javascript30/d26-stripe-follow-along-nav/)
