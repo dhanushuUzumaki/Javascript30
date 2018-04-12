@@ -28,3 +28,4 @@
 25. [Day 25 - Undestanding JS's capture](https://dhanushuuzumaki.github.io/Javascript30/d25-understanding-js-capture/)
 26. [Day 26 - Stripe Follow Along Nav](https://dhanushuuzumaki.github.io/Javascript30/d26-stripe-follow-along-nav/)
 27. [Day 27 - Click and Drag](https://dhanushuuzumaki.github.io/Javascript30/d27-click-and-drag/)
+28. [Day 28 - Video Speed Controller UI](https://dhanushuuzumaki.github.io/Javascript30/d28-video-speed-controller-ui/)
