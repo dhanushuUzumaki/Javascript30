@@ -30,3 +30,4 @@
 27. [Day 27 - Click and Drag](https://dhanushuuzumaki.github.io/Javascript30/d27-click-and-drag/)
 28. [Day 28 - Video Speed Controller UI](https://dhanushuuzumaki.github.io/Javascript30/d28-video-speed-controller-ui/)
 29. [Day 29 - Countdown Timer](https://dhanushuuzumaki.github.io/Javascript30/d29-countdown-timer/)
+30. [Day 30 - Whack a Mole](https://dhanushuuzumaki.github.io/Javascript30/d30-whack-a-mole/)
